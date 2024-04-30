@@ -1,4 +1,5 @@
-# Emotion_Based_MovieRecommendation
+# Emotion Based MovieRecommendation
+
 The project is a Movie Recommendation System which is based on the present emotions of a person. 
 Web Scrapping is used to get the top latest movies recommendations.
 
